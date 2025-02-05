@@ -14,13 +14,13 @@ Keywords:
 - Tailwind CSS
 - Project management
 
-![alt text](image-1.png)
+![alt text](Images/image-1.png)
 
-![alt text](image-2.png)
+![alt text](Images/image-2.png)
 
 Even though this was a solo project, project management was part of the assignment and it was handled with GitHub projects.  
 
-![alt text](image.png)
+![alt text](Images/image.png)
 
 ## [Our Story - Mobile app, mobile programming course final project - Nov 2024](https://github.com/Romaalie/OurStory "External link to project repository on GitHub")
 
@@ -43,9 +43,9 @@ Keywords:
 - Android Emulator
 
 
-![alt text](image-3.png)
+![alt text](Images/image-3.png)
 
-![alt text](image-4.png)
+![alt text](Images/image-4.png)
 
 
 ## [Ticket Sales system - Spring 2024](https://github.com/Romaalie/Lipunmyyntijarjestelma "External link to project repository on GitHub")
@@ -67,9 +67,9 @@ Keywords:
 - Documentation
 - Finnish
 
-![alt text](image-6.png)
+![alt text](Images/image-6.png)
 
-![alt text](image-7.png)
+![alt text](Images/image-7.png)
 
 ## [Budget web app - backend course final project - Spring 2024](https://github.com/Romaalie/backend-harjoitustyo "External link to project repository on GitHub")
 
@@ -92,10 +92,17 @@ Keywords:
 - Finnish
 
 
-![alt text](image-8.png)
+![alt text](Images/image-8.png)
 
-![alt text](image-9.png)
+![alt text](Images/image-9.png)
+
+## Transcript of Records - Feb 5 2025
+
+![alt text](Images/Opintosuoritusote-5-2-2025-part1-censored.JPG)
+![alt text](Images/Opintosuoritusote-5-2-2025-part2-censored.JPG)
+![alt text](Images/Opintosuoritusote-5-2-2025-part3-censored.JPG)
+![alt text](Images/Opintosuoritusote-5-2-2025-part4-censored.JPG)
 
 ## Certifications
 
-![alt text](image-5.png)
+![alt text](Images/image-5.png)
