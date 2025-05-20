@@ -98,10 +98,10 @@ Keywords:
 
 ## Transcript of Records - Feb 5 2025
 
-![alt text](Images/Opintosuoritusote-5-2-2025-part1-censored.JPG)
-![alt text](Images/Opintosuoritusote-5-2-2025-part2-censored.JPG)
-![alt text](Images/Opintosuoritusote-5-2-2025-part3-censored.JPG)
-![alt text](Images/Opintosuoritusote-5-2-2025-part4-censored.JPG)
+![alt text](Images/Opintosuoritusote-20-5-2025-part1-censored.JPG)
+![alt text](Images/Opintosuoritusote-20-5-2025-part2-censored.JPG)
+![alt text](Images/Opintosuoritusote-20-5-2025-part3-censored.JPG)
+![alt text](Images/Opintosuoritusote-20-5-2025-part4-censored.JPG)
 
 ## Certifications
 
