@@ -96,7 +96,7 @@ Keywords:
 
 ![alt text](Images/image-9.png)
 
-## Transcript of Records - Feb 5 2025
+## Transcript of Records - May 20 2025
 
 ![alt text](Images/Opintosuoritusote-20-5-2025-part1-censored.JPG)
 ![alt text](Images/Opintosuoritusote-20-5-2025-part2-censored.JPG)
